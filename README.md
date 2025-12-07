@@ -25,6 +25,8 @@ This research repository explores the compelling issue of virtual dress-up capab
 ## Getting Dataset
 To use this Dataset (including sources such as Designed Cloth and Generated Human Images):
 
-[百度云盘：VTHQA_Dataset](https://pan.baidu.com/s/1JHreY2t7VFWPuVHfq0USOA?pwd=thqa)
+[Baidu Yun Pan：VTHQA_Dataset](https://pan.baidu.com/s/1JHreY2t7VFWPuVHfq0USOA?pwd=thqa)
+
+[HuggingFace: VTHQA_Dataset]()
 
 
