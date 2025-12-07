@@ -12,21 +12,12 @@ This research repository explores the compelling issue of virtual dress-up capab
 
 ---
 
-## Visualization
-<div align="center">
-  <img src="visualization.gif" alt="Motion Imitation Visualization" width="60%">
-</div>
-
-*Figure 1: Comparative visualization of different imitation approaches.*
-
----
-
 
 ## Getting Dataset
 To use this Dataset (including sources such as Designed Cloth and Generated Human Images):
 
 [Baidu Yun Pan：VTHQA_Dataset](https://pan.baidu.com/s/1JHreY2t7VFWPuVHfq0USOA?pwd=thqa)
 
-[HuggingFace: VTHQA_Dataset]()
+[HuggingFace: VTHQA_Dataset](https://huggingface.co/datasets/zyj2000/VTHQA/)
 
 
