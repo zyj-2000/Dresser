@@ -1,7 +1,7 @@
 <p align="center">
   <img src="pic/dresser2.png" width="100" height="80">
   <h1 align="center"><b>Who is a Better Dresser</b></h1>
-  <p align="center">Yingjie Zhou, Zicheng Zhang, Xiaohong Liu, Xiongkuo Min and Guangtao Zhai</p>
+  <p align="center">Yingjie Zhou, Zicheng Zhang, Farong Wen, Yanwei Jiang, Jun Jia, Xiaohong Liu, Xiongkuo Min, Jiezhang Cao and Guangtao Zhai</p>
   <p align="center">Email: zyj2000@sjtu.edu.cn</p>
 </p>
 
